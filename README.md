@@ -1,7 +1,7 @@
 # Rockbuster Stealth Data Analysis Project
  This is a project in the CareerFoundry Data Analytics course.
 ## Porject Goal
-The project involves analyzing data provided by a Rockbuster Stealth LLC, a fictious movie rental company to investigate internal data and make recommendations for the company's future online video rental service launch strategy.
+The project involves analyzing data provided by a Rockbuster Stealth LLC, a fictious movie rental company to make recommendations for the company's future online video rental service launch strategy.
 ## Data
 The data set contains information about Rockbuster’s film inventory, customers, and payments, among other things. It is 3MB and contains several files, provided by CareerFoundry here.
 ## Result & Recommendations
