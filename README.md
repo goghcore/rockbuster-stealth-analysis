@@ -3,7 +3,7 @@
 ## Project Goal
 The project involves analyzing data provided by a Rockbuster Stealth LLC, a fictional movie rental company to make recommendations for the company's future online video rental service launch strategy.
 ## Data
-The data set contains information about Rockbuster’s film inventory, customers, and payments, among other things. It is 3MB and contains several files, provided by CareerFoundry & uploaed to this repository here.
+The data set contains information about Rockbuster’s film inventory, customers, and payments, among other things. It is 3MB and contains several files, provided by CareerFoundry & uploaded to this repository.
 ## Result & Recommendations
 **Beta launch in strategic countries**: India, China, United States, Mexico and Russia are the leading countries in their respective region. A beta launch in these lations will provide an opportunity for loyal customers to provide feedback and suggestions to help improve the service.
 
