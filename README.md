@@ -1,4 +1,4 @@
-# Rockbuster Stealth Data Analysis Project
+# Rockbuster Stealth Data Analysis
 
 *The Rockbuster Stealth Data Analysis Project, a part of the CareerFoundry Data Analytics Program, focuses on analyzing data provided by Rockbuster Stealth LLC, a fictional movie rental company. The project's primary objective is to identify trends in rental sales and formulate strategic recommendations for the company's forthcoming launch of an online video rental service in 2020.*
 
